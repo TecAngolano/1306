@@ -1,0 +1,16 @@
+
+input, select{
+    margin-bottom: 10px;
+}
+h2{
+    margin-bottom: 10px;
+}
+textarea{
+    resize: none;
+}
+.logoff{
+    position: fixed;
+    left: 0.5%;
+    cursor: pointer;
+}
+
